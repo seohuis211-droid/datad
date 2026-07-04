@@ -7,5 +7,6 @@ var importantList = [
     "https://tenpeuro.clickn.co.kr/pages/gangnamtenpeuro",
     "https://tenpeuro.clickn.co.kr/pages/nonhyeontenpro",
     "https://tenpeuro.clickn.co.kr/pages/nonhyeonten",
-    "https://tenpeuro.clickn.co.kr/pages/nonhyeon-tenpro"
+    "https://tenpeuro.clickn.co.kr/pages/nonhyeon-tenpro",
+    "https://tenpeuro.clickn.co.kr/pages/nonhyeontenpeuro"
 ];
