@@ -1,4 +1,13 @@
 var importantLinks = [
+    { url: "https://jongrogaraoke9.isweb.co.kr/", title: "https://jongrogaraoke9.isweb.co.kr/" },
+    { url: "https://jongronoraebang7.isweb.co.kr", title: "https://jongronoraebang7.isweb.co.kr" },
+    { url: "https://jongrorumssarong7.isweb.co.kr", title: "https://jongrorumssarong7.isweb.co.kr" },
+    { url: "https://jongropulssarong.isweb.co.kr", title: "https://jongropulssarong.isweb.co.kr" },
+    { url: "https://jongrohaipeobeullik7.isweb.co.kr", title: "https://jongrohaipeobeullik7.isweb.co.kr" },
+    { url: "https://jongropeobeullik7.isweb.co.kr", title: "https://jongropeobeullik7.isweb.co.kr" },
+    { url: "https://jongrosyeocheurum7.isweb.co.kr", title: "https://jongrosyeocheurum7.isweb.co.kr" },
+    { url: "https://jongroqq.isweb.co.kr", title: "https://jongroqq.isweb.co.kr" },
+    { url: "https://jongroaa.isweb.co.kr", title: "https://jongroaa.isweb.co.kr" },
     { url: "https://nonhyeonkaraokee.isweb.co.kr", title: "https://nonhyeonkaraokee.isweb.co.kr" },
     { url: "https://sinnonhyeonkaraoke.isweb.co.kr", title: "https://sinnonhyeonkaraoke.isweb.co.kr" },
     { url: "https://sadangkaraokee.isweb.co.kr", title: "https://sadangkaraokee.isweb.co.kr" },
